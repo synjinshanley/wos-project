@@ -1,0 +1,22 @@
+@import url(./foundation.min.css);
+
+body{
+    text-align: center;
+    overflow: hidden;
+    background-color: blanchedalmond;
+}
+
+.work{
+    overflow: auto;
+}
+
+.main{
+    margin-top: 17%;
+    margin-bottom: 20%;
+}
+
+form{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
